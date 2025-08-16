@@ -1,6 +1,7 @@
 # Chess Tournament App
 
 A full-stack web application for managing chess tournaments, opponents, and results.
+the backend is https://github.com/dimis283/tournament_backend
 # Usage
 
 Login with seeded user:
