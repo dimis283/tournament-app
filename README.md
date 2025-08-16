@@ -1,3 +1,14 @@
+# Chess Tournament App
+
+A full-stack web application for managing chess tournaments, opponents, and results.
+# Usage
+
+Login with seeded user:
+
+Email: dimis@example.com
+
+Password: dimis
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
